@@ -1,0 +1,6 @@
+1|Alice Johnson|21|F|O+|0123456789
+2|Bob Khan|23|M|A-|0987654321
+12|bob|18|M|A+|123|
+13|god|10|F|B-|656|
+1|Alice Johnson|21|F|O+|0123456789
+2|Bob Khan|23|M|A-|0987654321
